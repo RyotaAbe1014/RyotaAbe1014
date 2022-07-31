@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=your-github-RyotaAbe1014&color=green)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RyotaAbe1014)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RyotaAbe1014)
 
