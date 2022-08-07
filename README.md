@@ -1,8 +1,12 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RyotaAbe1014&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyotaAbe1014&count_private=true
-)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyotaAbe1014&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=RyotaAbe1014&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyotaAbe1014&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RyotaAbe1014&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://raw.githubusercontent.com/RyotaAbe1014/RyotaAbe1014/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/RyotaAbe1014/RyotaAbe1014/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/RyotaAbe1014/RyotaAbe1014/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RyotaAbe1014&count_private=true&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://activity-graph.herokuapp.com/graph?username=RyotaAbe1014&theme=github)](https://activity-graph.herokuapp.com/graph?username=RyotaAbe1014&theme=github)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=RyotaAbe1014&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=RyotaAbe1014&theme=dark)
