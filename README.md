@@ -8,5 +8,5 @@
 [![](https://raw.githubusercontent.com/RyotaAbe1014/RyotaAbe1014/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/RyotaAbe1014/RyotaAbe1014/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://activity-graph.herokuapp.com/graph?username=RyotaAbe1014&theme=github)](https://activity-graph.herokuapp.com/graph?username=RyotaAbe1014&theme=github)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=RyotaAbe1014&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=RyotaAbe1014&theme=dark)
+[![](https://activity-graph.herokuapp.com/graph?username=RyotaAbe1014&theme=github&count_private=true)](https://activity-graph.herokuapp.com/graph?username=RyotaAbe1014&theme=github)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=RyotaAbe1014&theme=dark&count_private=true)](https://github-readme-streak-stats.herokuapp.com/?user=RyotaAbe1014&theme=dark)
