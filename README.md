@@ -3,7 +3,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RyotaAbe1014&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 [![](https://raw.githubusercontent.com/RyotaAbe1014/RyotaAbe1014/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyotaAbe1014)]
-(https://github.com/anuraghazra/github-readme-stats)
 [![](https://raw.githubusercontent.com/RyotaAbe1014/RyotaAbe1014/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/RyotaAbe1014/RyotaAbe1014/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
