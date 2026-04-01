@@ -14,9 +14,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RyotaAbe1014&theme=radical&no-bg=true&column=7" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RyotaAbe1014&color=F706CF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
